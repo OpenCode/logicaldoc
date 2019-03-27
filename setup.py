@@ -3,7 +3,7 @@ from setuptools import setup
 setup(name='logicaldoc',
       version='0.0.1',
       description='LogicalDoc API library',
-      url='http://github.com/storborg/funniest',
+      url='https://github.com/OpenCode/logicaldoc',
       author='Francesco Apruzzese',
       author_email='cescoap@gmail.com',
       classifiers=[
